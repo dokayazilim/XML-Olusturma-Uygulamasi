@@ -1,0 +1,11 @@
+C:\Users\basal\OneDrive\Desktop\c# dersler\XML_Olusturma_2\XML_Olusturma_2\bin\Debug\XML_Olusturma_2.exe.config
+C:\Users\basal\OneDrive\Desktop\c# dersler\XML_Olusturma_2\XML_Olusturma_2\bin\Debug\XML_Olusturma_2.exe
+C:\Users\basal\OneDrive\Desktop\c# dersler\XML_Olusturma_2\XML_Olusturma_2\bin\Debug\XML_Olusturma_2.pdb
+C:\Users\basal\OneDrive\Desktop\c# dersler\XML_Olusturma_2\XML_Olusturma_2\bin\Debug\FakeData.dll
+C:\Users\basal\OneDrive\Desktop\c# dersler\XML_Olusturma_2\XML_Olusturma_2\bin\Debug\FakeData.pdb
+C:\Users\basal\OneDrive\Desktop\c# dersler\XML_Olusturma_2\XML_Olusturma_2\obj\Debug\XML_Olusturma_2.csproj.AssemblyReference.cache
+C:\Users\basal\OneDrive\Desktop\c# dersler\XML_Olusturma_2\XML_Olusturma_2\obj\Debug\XML_Olusturma_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\basal\OneDrive\Desktop\c# dersler\XML_Olusturma_2\XML_Olusturma_2\obj\Debug\XML_Olusturma_2.csproj.CoreCompileInputs.cache
+C:\Users\basal\OneDrive\Desktop\c# dersler\XML_Olusturma_2\XML_Olusturma_2\obj\Debug\XML_Olusturma_2.csproj.CopyComplete
+C:\Users\basal\OneDrive\Desktop\c# dersler\XML_Olusturma_2\XML_Olusturma_2\obj\Debug\XML_Olusturma_2.exe
+C:\Users\basal\OneDrive\Desktop\c# dersler\XML_Olusturma_2\XML_Olusturma_2\obj\Debug\XML_Olusturma_2.pdb
